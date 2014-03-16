@@ -9,7 +9,7 @@ Current Features
 
 Currently it just grabs a user's reddit karma and displays it. Here's an example.<br>
 <bcpu>!karma hueypriest<br>
-<karmabot> hueypriest has 170,121 link & 80,935 comment karma.<br>
+<karmabot>hueypriest has 170,121 link & 80,935 comment karma.<br>
 
 TODO
 =======
